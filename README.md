@@ -14,12 +14,12 @@ Below are the questions I want to answer in my project:
 
 ### Tools Used
 
-**Python**: Core language for analysis  
+* **Python**: Core language for analysis  
   - **Pandas**: Data manipulation  
   - **Matplotlib & Seaborn**: Data visualization  
-**Jupyter Notebooks**: For interactive analysis  
-**Visual Studio Code**: For coding  
-**Git & GitHub**: Version control 
+* **Jupyter Notebooks**: For interactive analysis  
+* **Visual Studio Code**: For coding  
+* **Git & GitHub**: Version control 
 
 
 # Data Preparation and Cleanup
